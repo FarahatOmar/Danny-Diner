@@ -21,5 +21,5 @@ I recreated Danny’s Diner database, wrote SQL queries to answer 10 business qu
 - Daily sales trend
 - Loyalty points summary
 - 
-![Dashboard](visuals/powerbi_dashboard.png)
+![Dashboard](visuals/powerbi_dashboard.jpg)
 
