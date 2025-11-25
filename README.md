@@ -1,8 +1,11 @@
 # Danny's Diner Case Study 🍜
 
-## Overview
-This project is based on the 8 Week SQL Challenge by Danny Ma.  
-I recreated Danny’s Diner database, wrote SQL queries to answer 10 business questions, and visualized the results in Power BI.
+## Problem Statement
+Danny wants to use the data to answer questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
+
+By using these insights the aim is to help him decide whether he should expand the existing customer loyalty program - additionally he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
+
+Danny has provided a sample of his overall customer data due to privacy issues
 
 ## Data Model
 - sales(product_id, customer_id, order_date)
